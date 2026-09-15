@@ -128,4 +128,3 @@ The JW5026 synchronous buck steps the battery down to 5 V efficiently over a wid
 | Name | Role |
 |---|---|
 | **Afraaz Khan** | Hardware design |
-| **Ansh Wadhera** | Hardware design |
